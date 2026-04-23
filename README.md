@@ -43,9 +43,9 @@ The model takes multiple inputs from the user:
 * Craving Type (Sweet / Spicy / etc.)
 * Allergies
 * Preferred Cuisine
-* 🧠 Digestion Preference
-* 🌦️ Current Weather
-* ⏰ Meal Time
+* Digestion Preference
+* Current Weather
+* Meal Time
 
 These inputs are processed and encoded using **Label Encoding**, then passed into a trained **Machine Learning model** to predict the most suitable dish.
 
