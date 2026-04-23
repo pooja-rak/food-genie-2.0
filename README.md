@@ -79,20 +79,17 @@ Food-Genie-2.0/
 
 ### 1️. Clone the repository
 
-```id="cifn9a"
 git clone https://github.com/your-username/food-genie-2.0.git
 cd food-genie-2.0
 ```
 
 ### 2️. Install dependencies
 
-```id="ehqcsz"
 pip install -r requirements.txt
 ```
 
 ### 3️. Run the app
 
-```id="ww96tc"
 streamlit run app.py
 ```
 
