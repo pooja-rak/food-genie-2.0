@@ -1,16 +1,16 @@
-# 🍽️ Food Genie 2.0
+# Food Genie 2.0
 
 An intelligent **Machine Learning-based food recommendation system** that suggests personalized dishes based on your preferences, health goals, and real-world conditions.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 https://food-genie-20-focdl8vwyvmhbwsqdkmsax.streamlit.app/
+**Link:** https://food-genie-20-focdl8vwyvmhbwsqdkmsax.streamlit.app/
 
 ---
 
-## 🌟 Overview
+## Overview
 
 Ever struggled with the question:
 **“What should I eat today?” 🤔**
