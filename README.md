@@ -13,7 +13,7 @@ An intelligent **Machine Learning-based food recommendation system** that sugges
 ## Overview
 
 Ever struggled with the question:
-**“What should I eat today?” 🤔**
+**“What should I eat today?”**
 
 Food Genie 2.0 solves this problem by acting as your **smart food assistant**, analyzing your inputs and recommending the most suitable dish.
 
@@ -21,28 +21,28 @@ This is an improved version of the original Food Genie, designed to provide **mo
 
 ---
 
-## 🚀 What’s New in Version 2.0
+## What’s New in Version 2.0
 
-✔ Added real-world factors like **weather conditions** 🌦️
-✔ Included **health preferences** (low carb, high protein, etc.) 💪
-✔ Supports **allergy awareness** ⚠️
-✔ Considers **digestion comfort levels** 🧠
+✔ Added real-world factors like **weather conditions** 
+✔ Included **health preferences** (low carb, high protein, etc.)
+✔ Supports **allergy awareness**
+✔ Considers **digestion comfort levels** 
 ✔ Improved dataset and model performance
 ✔ Better and more user-friendly UI
 
-👉 Food Genie 2.0 is not just a recommender — it’s a **personalized food decision assistant**.
+ Food Genie 2.0 is not just a recommender — it’s a **personalized food decision assistant**.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The model takes multiple inputs from the user:
 
-* 🥗 Diet Type (Vegetarian / Vegan / Non-Vegetarian)
-* 💪 Health Preference (Low Carb / High Protein / etc.)
-* 😋 Craving Type (Sweet / Spicy / etc.)
-* ⚠️ Allergies
-* 🌍 Preferred Cuisine
+* Diet Type (Vegetarian / Vegan / Non-Vegetarian)
+* Health Preference (Low Carb / High Protein / etc.)
+* Craving Type (Sweet / Spicy / etc.)
+* Allergies
+* Preferred Cuisine
 * 🧠 Digestion Preference
 * 🌦️ Current Weather
 * ⏰ Meal Time
