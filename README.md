@@ -51,9 +51,9 @@ These inputs are processed and encoded using **Label Encoding**, then passed int
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-* **Python** 🐍
+* **Python**
 * **Streamlit** (Frontend UI)
 * **Scikit-learn** (ML Model)
 * **Pandas** (Data Handling)
@@ -61,7 +61,7 @@ These inputs are processed and encoded using **Label Encoding**, then passed int
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```id="wdb4jc"
 Food-Genie-2.0/
@@ -75,22 +75,22 @@ Food-Genie-2.0/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️. Clone the repository
 
 ```id="cifn9a"
 git clone https://github.com/your-username/food-genie-2.0.git
 cd food-genie-2.0
 ```
 
-### 2️⃣ Install dependencies
+### 2️. Install dependencies
 
 ```id="ehqcsz"
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run the app
+### 3️. Run the app
 
 ```id="ww96tc"
 streamlit run app.py
@@ -98,36 +98,36 @@ streamlit run app.py
 
 ---
 
-## 🎯 Features
+## Features
 
-✨ Personalized food recommendations
-✨ Multi-factor decision making
-✨ Clean and user-friendly UI
-✨ Fast predictions
-✨ Real-life applicability
+Personalized food recommendations
+Multi-factor decision making
+Clean and user-friendly UI
+Fast predictions
+Real-life applicability
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 The recommendations are based on trained data and may not always be 100% accurate.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pooja Rajaram**
-🎓 MCA Student
-🚀 Aspiring Machine Learning Engineer
+MCA Student
+Aspiring Machine Learning Engineer
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
-* 🍽️ Add food images
-* 📊 Show model confidence score
-* 🌐 Enhance deployment scalability
-* 📱 Improve mobile responsiveness
+* Add food images
+* Show model confidence score
+* Enhance deployment scalability
+* Improve mobile responsiveness
 
 ---
 
