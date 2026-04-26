@@ -4,12 +4,6 @@ An intelligent **Machine Learning-based food recommendation system** that sugges
 
 ---
 
-## Live Demo
-
-**Link:** https://food-genie-20-focdl8vwyvmhbwsqdkmsax.streamlit.app/
-
----
-
 ## Overview
 
 Ever struggled with the question:
